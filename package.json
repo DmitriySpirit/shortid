@@ -51,6 +51,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "nanoid": "^1.0.7"
+    "nanoid": "1.2.3"
   }
 }
